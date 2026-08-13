@@ -1,9 +1,10 @@
 ## Olá, eu sou o Rafael Zia! Seja bem-vindo! 👋
 
-- 🔭 Atualmente estou trabalhando em projetos individuais
+- 🔭 Atualmente estou iniciando o meu curso
 - 🌱 Estudando Engenharia de Computação na UNIFEI
 - 🤔 Aceito sugestões para melhorar meus códigos
 - ⚡ Fun fact: Sou do Rock! 🤘
+- ⏳ Iniciei meu curso em 2026.1
 
 ---
 
