@@ -9,7 +9,7 @@
 
 ##
 
-<p align="center">
+<p >
   <img src="https://github-stats-extended.vercel.app/api?username=Rafaelzia&include_all_commits=true&theme=tokyonight" height="180" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rafaelzia&langs_count=4&theme=tokyonight" height="180" alt="Top Languages" />
